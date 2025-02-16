@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm pzdjulie97634
 
-<!--
-**pzdjulie97634/pzdjulie97634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎱 🏏 A fan of algorithms 🎱 🏏
 
-Here are some ideas to get you started:
+## About Me
+🛶 🎣 🎯 Creating amazing things with virtual reality 🛶 🎣 🎯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎰 🏒 🚴 🎮 Working on frameworks 🎰 🏒 🚴 🎮
+
+### Fun Facts
+🛶 🎳 🚴 🎱 A lover of frameworks 🛶 🎳 🚴 🎱
+
+---
+🏊 🎽 🏑 🥁 🛼 Thanks for visiting my profile! 🥋 🛹 🏓 🛼 💻
